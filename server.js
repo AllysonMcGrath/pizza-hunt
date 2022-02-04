@@ -12,8 +12,8 @@ app.use(require('./routes'));
 
 //which database should app connect to
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/pizza-hunt', {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
+  useNewUrlParser: true,
+  useUnifiedTopology: true
 });
 
 //log mongo queries being executed
