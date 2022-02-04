@@ -30,8 +30,6 @@ Trilogy Education Services, LLC, a 2U, Inc. brand
 
 [Coding Boot Camp at UT](https://github.com/the-Coding-Boot-Camp-at-UT)
 
-[Xander Rapstine](https://github.com/Xandromus)
-
 
 ## License
 
